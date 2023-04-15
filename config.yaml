@@ -3,26 +3,34 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        proof: 1
-        natural language: 1
+        OMDoc: 3
+        flexiformal: 3
+        mathematical proof: 2
         formal proof: 2
-        dependent type: 1
-        type theory: 1
         informal proof: 3
         literate programming: 3
         Lean: 3
+        MMT: 3
+        DRT: 3
+        DTS: 3
+        philosophy: 3
+        
         Isabelle: 2
-        Coq: 1
+        Coq: 2
         Mizar: 2
         controlled natural language: 2
         CNL: 2
+        metaprogramming: 2
         
-        flexiformal: 3
+        dependent type: 1
         discourse: 1
         semantic: 1
         semantics: 1
         grammar: 1
+        proof: 1
+        type theory: 1
+        natural language: 1
         
 
 # 通知の閾値
-score_threshold: 1
+score_threshold: 2
