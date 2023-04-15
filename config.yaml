@@ -3,9 +3,26 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        proof: 1
+        natural language: 1
+        formal proof: 2
+        dependent type: 1
+        type theory: 1
+        informal proof: 3
+        literate programming: 3
+        Lean: 3
+        Isabelle: 2
+        Coq: 1
+        Mizar: 2
+        controlled natural language: 2
+        CNL: 2
+        
+        flexiformal: 3
+        discourse: 1
+        semantic: 1
+        semantics: 1
+        grammar: 1
+        
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 1
